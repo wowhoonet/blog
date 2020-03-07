@@ -1,0 +1,16 @@
+{
+  "name": "theme-blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "deploy":"bash deploy.sh",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.2",
+    "vuepress": "1.2.0",
+    "vuepress-theme-reco": "1.2.2"
+  },
+  "description": "记录点点滴滴"
+}
