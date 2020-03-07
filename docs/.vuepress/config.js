@@ -1,7 +1,4 @@
 module.exports = {
-  "plugins": [
-    "@vuepress-reco/vuepress-plugin-bgm-player"
-  ],
   "title": "wowhoo'blog",
   "description": "记录点点滴滴",
   "dest": "public",
